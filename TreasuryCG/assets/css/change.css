@@ -1,0 +1,266 @@
+@charset "utf-8";
+@import url(../../theme/css/site-change.css);
+body {
+	background:#000;
+	color:#fff;
+}
+body a, .footer-bottom-wrapper a {
+	color:#ffff00;
+}
+.top-wrapper {
+	background:#000;
+}
+.common-wrapper {
+	background:#000;
+	border-bottom:1px solid #535353;
+}
+.carousel-wrapper {
+	background:#000;
+	border-top:1px solid #535353;
+}
+.common-right ul li.ico-accessibility ul li a {
+	color:#ffff00;
+}
+a.sw-logo {
+	background:url(../images/swach-bharat-high-contrast.png) no-repeat scroll 0 0;
+	overflow:hidden;
+	text-indent:-200px;
+}
+
+.resp-tabs-list li {
+	background-color: #000!important;
+}
+.resp-tab-content ul li a:hover, ul.page-list li a:hover {
+    color: #ff0;
+}
+.common-left ul li.ministry {
+	border-left:1px solid #535353;
+}
+.common-right ul li {
+	border-left:1px solid #535353;
+}
+.header-wrapper {
+	border-bottom:1px solid #535353;
+}
+.toggle-nav-bar .menu-icon {
+	background:url(../images/toggle-bar-light.png) no-repeat;
+}
+.nav-wrapper {
+	background:#000;
+}
+.logo {
+	background:url(../images/emblem-light.png) no-repeat;
+}
+.top-left a span {
+	background:url(../images/ico-link-light.png) no-repeat;
+}
+.flex-control-paging li a {
+	color: #424200;
+}
+.logo a {
+	color:#fff;
+}
+.footer-top-wrapper {
+	background:#000;
+	border-top:1px solid #535353;
+}
+.footer-top-wrapper ul li:hover a {
+	text-decoration:underline;
+}
+.footer-bottom-wrapper {
+	background-color:#000;
+	color:#fff;
+}
+.nav-wrapper ul li {
+	border-left:1px solid #3b3b3b;
+}
+.nav-wrapper ul ul li {
+	border-bottom:1px solid #666;
+}
+.nav-wrapper ul ul {
+	background:#3b3b3b;
+}
+.nav-wrapper ul li:hover a, .nav-wrapper ul li.hover a, .nav-wrapper ul li.active a {
+	background:#3b3b3b;
+}
+.nav-wrapper ul ul li.active a, .nav-wrapper ul ul li.hover a, .nav-wrapper ul ul li a:hover {
+	background:#1a1a1a;
+}
+.bttn {
+	background:#000;
+	border:1px solid #fff;
+	padding:4px 9px;
+}
+.bttn:hover {
+	background:#000;
+	color:#fff;
+}
+.more {
+    color: #000;
+    background: #ff0;
+    border: 1px solid #dd0;
+    box-shadow: 0px 0px 5px 0px #ff0;
+}
+.inner-content caption {
+    color:#fff;
+}
+.more:hover {
+	background: #dd0;
+	color: #000;
+}
+.inp-search {
+	background:#000;
+	border:1px solid #fff;
+	color:#fff;
+}
+.m-head h1, .sub-sec h3, .list-sec h3, .list-sec h4, .inner-content h3 {
+    color: #fff;
+}
+.m-cont p {
+    color: #fff;
+}
+.list-sec ul li {
+    color: #fff;
+}
+.common-right ul li.ico-site-search input[type="text"] {
+	border: 2px solid #303030;
+}
+.bttn-search {
+	background-color:#303030;
+}
+.lan select, .ft-lan select {
+	background:#000;
+	color:#fff;
+	border:1px solid #fff;
+}
+.common-right ul li a {
+	opacity:1 !important;
+}
+.common-right ul li.ico-skip a {
+	background-position:-124px -61px !important;
+}
+.common-right ul li.ico-accessibility a {
+	background-position:7px -61px !important;
+}
+.common-right ul li.ico-social a {
+	background-position: -28px -61px !important;
+}
+.common-right ul li.ico-login a {
+	background-image:url(../images/ico-login-y.png);
+}
+.common-right ul li.ico-site-search a {
+	background-position:-59px -61px !important;
+}
+.common-right ul li.ico-sitemap a {
+	background-position:-90px -61px !important;
+}
+ @media all and (max-width : 940px) {
+#nav li {
+background:#3B3B3B;
+}
+.nav-wrapper ul li.open ul li a {
+background:#454545 !important;
+}
+.nav-wrapper ul li.open ul li:hover a {
+background:#353535 !important;
+}
+ .nav-wrapper ul li:hover a {
+background:#212121 !important;
+}
+.nav-wrapper ul li.open ul li a {
+color:#ffff00 !important;
+}
+}
+.common-right ul li.ico-accessibility ul li a {
+}
+.common-right ul li.ico-accessibility ul li a.light {
+	background:#eeeeee;
+	color:#000;
+}
+.sw-logo {
+	background:#fff;
+	display:inline-block;
+}
+.common-left li {
+	color:#FFF;
+}
+a:focus {
+	outline:1px dotted #fff !important;
+}
+.common-left ul li.gov-india a:hover {
+	color:#ffff00 !important;
+}
+.common-left ul li.gov-india a:focus, .common-left a {
+	color:#ffff00 !important;
+}
+.common-left a {
+	display:inline-block;
+}
+.common-left a:focus {
+	color:#ffff00 !important;
+}
+/*Mega Menu*/
+
+/*Custom Mega Menu Theme*/
+	.megamenu-row h5 {
+	color:#000;
+}
+.mega-nav-wrapper {
+	border-top:0px;
+	background:#000
+}
+.megamenu-row ul li a, .menuzord-menu > li > a {
+	color:#fff;
+}
+.menuzord-menu > li > .megamenu, ul.menuzord-menu li.active a, ul.menuzord-menu li:hover a, .megamenu-row ul li a:hover {
+	background:#ffff00;
+	color:#000 !important;
+}
+.footer-sub-nav {
+	border-top:1px solid #535353;
+}
+.footer-sub-nav ul li a {
+	color:#ffff00;
+}
+
+ul.menuzord-menu li.active a i{color:#000;}
+
+/*====Menu Reset =========*/
+
+.megamenu-wraper {
+  background: none;
+  border-bottom: 1px solid #a4a4a4;
+}
+.main-menu ul > li > a {
+  color: #ffff00;
+}
+.whats-new h3{color:#FFF;}
+
+.color-border, .whats-new .viewall, .whats-new .viewall:hover, .explore .viewall, .explore .viewall:hover, .left-menu ul li.active a, .left-menu ul li:hover a {
+  background: #ffff00 none repeat scroll 0 0;
+  color: #000;
+}
+.main-menu .sub-nav ul li a {
+    color: #ff0!important;
+}
+
+.sub-nav {
+    background: #000;
+}
+
+.main-menu a.btn-more:focus, .main-menu a.btn-more:hover {
+    background: #ff0 !important;
+    color: #000!important;
+}
+
+.main-menu a.btn-more.opened, .main-menu a.btn-more.opened:hover, .main-menu a.btn-more.opened:focus {
+    background-color: #ff0 !important;
+    color: #000 !important;
+}
+
+.links-wrapper .icon-box a:hover .icon-box-text, .links-wrapper .icon-box a:focus .icon-box-text {
+    color: #000;
+}
+.cc-change {
+	color: #ff0!important;
+}
