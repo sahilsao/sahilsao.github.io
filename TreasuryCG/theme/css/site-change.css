@@ -1,0 +1,152 @@
+
+
+@media all and (max-width : 940px) {
+#nav li{background:#3B3B3B;}
+.nav-wrapper ul li.open ul li a {background:#454545 !important; color:#ffff00 !important;}
+.nav-wrapper ul li.open ul li:hover a {
+background:none !important;
+color:#ffff00 !important;
+}
+
+ .nav-wrapper ul li a {
+color:#ffff00 !important;
+}
+
+ .nav-wrapper ul li:hover a {
+background:none !important;
+color:#ffff00 !important;
+}
+.nav-wrapper ul li.open ul li a{color:#ffff00 !important;}
+}
+
+.nav-wrapper ul li a, .body-container ul.list li a,.otonomus-content li a,.otonomus-content .more,.digital-container .digital-content,.footer-top-wrapper ul li a
+,.breadcam li a, .box-content-link ul li h4, .box-content-link ul li p, .half-box a{color:#ffff00 !important;background:none; border:1px solid #333; color:#FFF;}
+.otonomus-content h3,.minister .min-info h4,.minister .min-info h5,.imp-link .quicklink h3,.white-container .visitor h3,.inner-content h2, .inner-content .box-content, .inner-content ol{color:#FFF;}
+.home-btm-slider,.carousel-wrapper{background:#000; border-top:1px solid #333; border-bottom:1px solid #333;}
+.color-border,.whats-new .viewall,.whats-new .viewall:hover,.explore .viewall,.explore .viewall:hover,.left-menu ul li.active a, .left-menu ul li:hover a { background:#fff; color:#000;}
+.otonomus-container,.minister,.ebook-container,.digital-container{ background:#000; border:1px solid #666;}
+.ebook-container h3{ background:#333;}
+.ebook-container .headdingimg,.morebtt{ background:none;}
+
+
+.quote-wraper {
+  background: #000 none repeat scroll 0 0;
+}
+.quote {
+  color: #fff;
+}
+.five-elements-bg {
+  background: #000 none repeat scroll 0 0;
+  border-top:1px solid #333;}
+  
+  .inner-content h3 {
+  color: #fff;
+}
+.box-content-link ul li:hover{background:none;}
+
+.inner-content .box-content {
+  background: #000 none repeat scroll 0 0;
+  border: 1px solid #ccc;
+}
+.half-box h4, .half-box p, .whats-new h3, .secretariat h3, .whats-new h2, .schema-websites h3.schema-websites-heading, .minister-panel .min-info h4, .minister-panel .min-info h5, .links-holder h4, .video-links h3, .video h3, .success-stories h3{color:#FFF;}
+.body-container ul.list li, .otonomus-content li{background:none; padding-left:0px;}
+.important-links {
+  background: none;
+  padding: 40px 0;
+   border-top:1px solid #ffff00;
+    border-bottom:1px solid #ffff00;
+}
+
+.menuzord-menu > li > a, .body-content ul li a, .quick-links ul li a, .video .video-heading a, .links-holder li a, .important-links-box a span.link-txt{color:#ffff00 !important;}
+ul.menuzord-menu li.active a i{color:#000;}
+.body-content h2, .quick-links h3{color:#FFF;}
+.view-all, .video {
+  background: none;
+  color: #ffff00;
+  border:1px solid #ffff00;
+}
+.quick-links {
+  background: rgba(0, 0, 0, 0) none repeat scroll 0 0;
+  padding-bottom: 40px;
+}
+.quick-links-heading{background:none; border-top:1px solid #c7c7c7; border-bottom:1px solid #c7c7c7;}
+.quick-links-heading h3{background:none;}
+
+.press-relese-heading::after, .important-links-heading::after, .visitors-heading::after {
+  background: rgba(0, 0, 0, 0) url("../images/green-arrow-hc.png") repeat scroll 0 0;
+  
+}
+
+.quick-links-contents .press-relese-heading, .quick-links-contents .important-links-heading, .quick-links-contents .visitors-heading{background:none; border:1px solid #c7c7c7;}
+.quick-links-contents h3, .visitors{background:none;}
+
+.resp-tabs-list li.resp-tab-active, .gallery-area h3, .gallery-image-info span.date, .page-gallery-content h3, .press-resele-box .news-info h3, .press-resele-box .news-info span.pub-date, .press-resele-box .news-info p, .press-release-pagi.pagination .pagination-inner, .press-heading-panel h2, .breadcam li, .two-clmn-inner .inner-min-info{color:#FFF;}
+
+.resp-tabs-list li.resp-tab-active{background:none !important; border:1px solid #FFF !important; border-bottom:none !important;}
+.page-tab ul.resp-tabs-list li, .resp-tab-content li span.ico-txt, .side-link a span.txt, .extra-link:hover .extra-txt, .other-sections ul li a, .block-link , .gallery-image-info p, .press-release-pagi.pagination .pagination-inner a, a.to-top{
+  color: #ffff00;
+ 
+}
+a.to-top{border: 1px solid #ffff00;}
+.resp-tabs-list li {
+  border-left: 1px solid #ffff00;
+  border-right: 1px solid #ffff00;
+  border-top: 1px solid #ffff00;
+}
+
+.tab-section, .extra-links{background:none;}
+.side-link a{background:none; border:1px solid #FFF;}
+.gallery-area h3{background:none;}
+.gallery-area a{background:#000; color:#ffff00;}
+.extra-link{background:#000; border:1px solid #ffff00;} 
+.gallery-links{border-top:1px solid #333333;
+border-bottom:1px solid #333333;
+background:none;}
+.gallery-links ul li a, .inner-content ul li a , .inner-content ul li a span{color:#ffff00;}
+.inner-content ul li a:hover , .inner-content ul li a:hover span{text-decoration:underline; color:#ffff00;}
+.inner-content p, ul.list-single-collumn li, .testimonials ul li .testi-content h4, .testimonials ul li .testi-content h5, .testimonials ul li .testi-content p, .testimonials ul li .testi-content .testi-links, .resp-tabs-container span.content-title, .sristi h4{color:#FFF;}
+.tab-section{border-top:1px solid #666 !important;}
+.inner-content ul li {
+  background: rgba(0, 0, 0, 0) url("../images/blt-order.png") no-repeat scroll 0 6px;
+  
+}
+.pagination-inner a{background: #ffff00;}
+
+.page-gallery-content, .gallery-image-container, .testimonials-wraper, .testimonials ul li .testi-img, .page-tab  h2.resp-accordion{background:#000;}
+.page-tab  h2.resp-accordion, .slide-caption, .banner-wrapper{background:#000 !important;}
+.press-heading-panel .icon-panel span{background-color:#ffff00 !important;}
+.borderd-box{background:none;}
+
+.main-menu a.btn-more, .main-menu a.btn-more:focus, .megamenu-wraper .showhide em{background:#ffff00 !important; color:#000 !important;}
+.main-menu > ul > li.active > a, .main-menu > ul > li > a:focus, .main-menu > ul > li > a.hover, .main-menu > ul > li:hover > a, .main-menu > ul > li > a:hover, .main-menu > ul > li > a.home, .nav-item > a.open{background:#ffff00 !important; color:#000 !important;}
+.schema-websites ul li a, .whats-new ul li a, .minister-panel .min-info .min-links a, .whats-new .btn-view, .testimonials ul li .testi-content .testi-links a, ul.page-list li a, .resp-tab-content ul li a, a.btn-view, .sristi ul.list li a, .video-gallery-heading a{color:#ffff00; }
+.whats-new .btn-view{border-color:#ffff00;}
+.body-container-left .schema-websites, .minister-panel{border:1px solid #333;}
+.testimonials ul li .testi-img::after{display:none;}
+.flex-control-paging li a,  .links-wrapper{background:#ffff00; }
+.flex-control-paging li a.flex-active{background:#fff;}
+.flex-direction-nav a::before{color:#ffff00; opacity:0.9;}
+
+.rajvasa-main-container h2 {
+  background:#333;
+  border-bottom: 0px solid #c9c9c9;
+  color: #fff;
+}
+
+.top-bg-wrapper, #parentHorizontalTab, .resp-tab-content, .resp-tabs-container, .major-schemes h4, .box-model, .minister-panel, .sristi, .video-gallery-heading, tr:nth-of-type(2n+1)  {
+  background: #000;
+}
+
+
+.resp-tabs-container, .minister-panel, .sristi, .video-gallery-heading{border:1px solid #333;}
+.links-wrapper{border-top:1px solid #333; border-bottom:1px solid #333;}
+
+.table-green th{background:#333;}
+.inner-content {
+  color: #fff;
+}
+.links-wrapper .icon-box a:hover .icon-box-ico, .links-wrapper .icon-box a:focus .icon-box-ico {
+  background-position: 0px -70px;
+  background-color: #000000;
+  border: 2px solid #fff;
+}
