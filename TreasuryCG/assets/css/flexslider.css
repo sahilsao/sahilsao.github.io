@@ -48,6 +48,10 @@
 .flexslider {
   margin: 0;
   padding: 0;
+  width: 75%;
+      display: block;
+      margin-left: auto;
+      margin-right: auto;
 }
 .flexslider .slides > li {
   /* display: none; */
